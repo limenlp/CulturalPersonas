@@ -29,7 +29,7 @@ You can run experiments in both settings as follows:
 ```
 cd experiments
 
-python3 mcs.py -q `<questionnaire> -t <test_type> -c <country> -r <results_file> -n <norms_file> -m <model_name> -gt <ground_truth_dataset>`
+python3 mcs.py -q <questionnaire> -t <test_type> -c <country> -r <results_file> -n <norms_file> -m <model_name> -gt <ground_truth_dataset>
 
-python3 oeg.py -q `<questionnaire> -t <test_type> -c <country> -r <results_file> -n <norms_file> -m <model_name> -gt <ground_truth_dataset>`
+python3 oeg.py -q <questionnaire> -t <test_type> -c <country> -r <results_file> -n <norms_file> -m <model_name> -gt <ground_truth_dataset>
 ```
