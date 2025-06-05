@@ -1,0 +1,280 @@
+{
+    "cultural-norms": [
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in United States.",
+            "country": "United States",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. Americans place a high value on individualism, with the belief that each person should have equal opportunity economically, socially, and politically, allowing success through personal efforts and achievements."
+                },
+                {
+                    "id": 2,
+                    "text": "2. Change and novelty are embraced within consumer culture as a means to escape the monotony of routine, yet fundamental shifts in social institutions may be initially seen as radical."
+                },
+                {
+                    "id": 3,
+                    "text": "3. Optimism and the belief in solving any problem with energy and ingenuity are key cultural components, underscored by a conviction that hard work will eventually yield success."
+                },
+                {
+                    "id": 4,
+                    "text": "4. The American ethos prizes self-reliance and initiative, with individuals expected to be self-starting and to exhibit courage and perseverance in the face of challenges."
+                },
+                {
+                    "id": 5,
+                    "text": "5. Competitiveness is a fundamental aspect of American culture, often seen not just among individuals but also within groups and institutions, tempered by the value of fair play."
+                },
+                {
+                    "id": 6,
+                    "text": "6. Egalitarianism underscores the societal disdain for hereditary titles or status, reinforcing the idea that prestige must be earned through one's accomplishments."
+                },
+                {
+                    "id": 7,
+                    "text": "7. Religion holds significant cultural value, with a majority of Americans identifying as religious and expecting their leaders to acknowledge this in public discourse, despite the personal nature of religious beliefs."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Recreation is considered a right and is expected to be constructive and restorative rather than indulgent, aligning with broader cultural values."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Social conformity, generosity, and concern for the welfare of others are valued, balancing the individualistic nature of American culture."
+                },
+                {
+                    "id": 10,
+                    "text": "10. Honesty and frankness are highly valued in human interactions, fostering an environment where dissimulation is generally frowned upon."
+                }
+            ]
+        },
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in India.",
+            "country": "India",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. Indian society places high importance on family and community, often prioritizing collective goals over individual aspirations."
+                },
+                {
+                    "id": 2,
+                    "text": "2. Hierarchical relationships are prevalent in India, with respect and deference shown to elders and those in positions of authority."
+                },
+                {
+                    "id": 3,
+                    "text": "3. There is a strong emphasis on maintaining and nurturing personal relationships, with familism playing a central role in social interactions."
+                },
+                {
+                    "id": 4,
+                    "text": "4. Duality in thinking is a notable feature of Indian culture, where seemingly contradictory beliefs such as frugality and conspicuous consumption coexist."
+                },
+                {
+                    "id": 5,
+                    "text": "5. Indians often balance collectivist and individualistic tendencies, adapting their behavior based on context and social obligations."
+                },
+                {
+                    "id": 6,
+                    "text": "6. Tradition and modernity coexist, with many Indians navigating between cultural traditions and the influences of globalization in their daily lives."
+                },
+                {
+                    "id": 7,
+                    "text": "7. Privacy is often intertwined with concepts of shame or secrecy, and personal matters are sometimes discussed within community settings rather than being kept private."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Personal space is perceived differently, with communal living and the closeness of communities leading to different norms around privacy and physical space."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Education and professional success are highly valued, with a significant number of Indian youths pursuing education abroad and blending Western practices with Indian values."
+                },
+                {
+                    "id": 10,
+                    "text": "10. Cultural practices and community norms often influence personal choices, with decisions about lifestyle often being guided by family or community expectations."
+                }
+            ]
+        },
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in Japan.",
+            "country": "Japan",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires."
+                },
+                {
+                    "id": 2,
+                    "text": "2. The concept of \"omotenashi\" reflects a deep commitment to hospitality and service, where individuals strive to anticipate and fulfill the needs of others with sincerity and care."
+                },
+                {
+                    "id": 3,
+                    "text": "3. Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions."
+                },
+                {
+                    "id": 4,
+                    "text": "4. Group consensus and collective responsibility are prioritized in decision-making processes, often requiring patience and cooperation to achieve mutual agreement."
+                },
+                {
+                    "id": 5,
+                    "text": "5. The aesthetic principle of \"wabi-sabi\" highlights a cultural appreciation for imperfection, impermanence, and simplicity, influencing art, design, and daily life."
+                },
+                {
+                    "id": 6,
+                    "text": "6. Self-discipline and perseverance, known as \"ganbaru,\" are esteemed qualities, often guiding individuals to work diligently and persistently towards their goals."
+                },
+                {
+                    "id": 7,
+                    "text": "7. Education and continual self-improvement are emphasized, with a strong cultural focus on lifelong learning and skill development."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Nature and the changing seasons play a significant role in Japanese life, with festivals and practices celebrating the beauty and cycles of the natural world."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Social etiquette and politeness are crucial in Japanese interactions, with individuals expected to follow established norms to avoid causing offense."
+                },
+                {
+                    "id": 10,
+                    "text": "10. Responsibility to the community and the company is often placed above personal interests, with individuals expected to contribute to the collective well-being and success."
+                }
+            ]
+        },
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in Saudi Arabia.",
+            "country": "Saudi Arabia",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. Saudi society places great importance on family as the fundamental social unit, with extended families providing support and having a strong influence on individual identities."
+                },
+                {
+                    "id": 2,
+                    "text": "2. Islamic values and teachings permeate all aspects of life, guiding social, legal, and moral guidelines within Saudi society."
+                },
+                {
+                    "id": 3,
+                    "text": "3. Gender roles are traditionally defined, with men generally responsible for providing financially and women typically maintaining the household, though women are increasingly participating in the workforce within cultural constraints."
+                },
+                {
+                    "id": 4,
+                    "text": "4. There is profound respect for elders and authority figures, with grandparents often having significant decision-making power in family matters."
+                },
+                {
+                    "id": 5,
+                    "text": "5. Tribal and kinship ties remain influential, historically shaping individuals' roles in society and contributing to their social standing and success."
+                },
+                {
+                    "id": 6,
+                    "text": "6. The principle of Shariah law governs not only religious practices but also political, economic, and social life, influencing daily actions and societal norms."
+                },
+                {
+                    "id": 7,
+                    "text": "7. Privacy and modesty are highly valued, influencing social behavior and interactions, especially between unrelated men and women."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Social gatherings and family visits are significant aspects of life, reinforcing strong bonds among family members and fostering community ties."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Saudi culture emphasizes hospitality, expecting community members to be generous and accommodating to guests and visitors."
+                },
+                {
+                    "id": 10,
+                    "text": "10. Conservatism and tradition play key roles in daily life, with an emphasis on adhering to customs rooted in Islamic beliefs and practices."
+                }
+            ]
+        },
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in Brazil.",
+            "country": "Brazil",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. Brazilian culture places a strong emphasis on social relationships and community, with a warm and welcoming approach to strangers and a focus on building personal connections."
+                },
+                {
+                    "id": 2,
+                    "text": "2. There is an appreciation for racial and ethnic diversity due to Brazil’s history of race mixture, which is reflected in its rich multicultural society and a less pronounced emphasis on color-based social hierarchies compared to other regions."
+                },
+                {
+                    "id": 3,
+                    "text": "3. Family is considered a central pillar of Brazilian life, often extending beyond the nuclear family to include a wide network of relatives who support and celebrate life events together."
+                },
+                {
+                    "id": 4,
+                    "text": "4. Brazilian Portuguese, with its distinct intonations and vocabulary, embodies the country's diverse influences and serves as a unifying factor across its vast regionally varied landscape."
+                },
+                {
+                    "id": 5,
+                    "text": "5. The concept of “jeitinho” reflects the Brazilian tendency to find flexible, creative solutions to overcome bureaucratic and social challenges, highlighting a cultural ingenuity and adaptability."
+                },
+                {
+                    "id": 6,
+                    "text": "6. Festivals and celebrations, such as the famous Carnival, underscore the cultural importance of joy, music, dance, and collective expression across different demographics in Brazil."
+                },
+                {
+                    "id": 7,
+                    "text": "7. Brazil's deep-seated tradition of hospitality is evident in the way Brazilians welcome guests, often treating them as part of the family and sharing a genuine sense of conviviality."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Despite urbanization and modern influences, there is a continued respect and connection to nature, especially evident in cultural expressions like the phrase \"e mato\", pointing to Brazil’s vast natural resources."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Soccer (futebol) holds an unparalleled place in Brazilian society, serving not only as a popular sport but also as a significant cultural and national unifier that bonds people across various backgrounds."
+                },
+                {
+                    "id": 10,
+                    "text": "10. There is an underlying national pride in Brazil’s cultural distinctiveness, which combines indigenous, African, and European elements, forming a unique Brazilian identity that is celebrated both locally and globally."
+                }
+            ]
+        },
+        {
+            "gpt4-o prompt": "Provide me 10 unique sentences highlighting the core values/important aspects of individuals living in South Africa.",
+            "country": "South Africa",
+            "norms": [
+                {
+                    "id": 1,
+                    "text": "1. South Africa prides itself on its cultural diversity, often celebrated through the concept of a \"Rainbow Nation\" that respects and integrates a multitude of ethnic and cultural identities."
+                },
+                {
+                    "id": 2,
+                    "text": "2. Ubuntu, a Nguni Bantu term meaning \"humanity towards others,\" embodies the South African value of interconnectedness, emphasizing community, compassion, and mutual care."
+                },
+                {
+                    "id": 3,
+                    "text": "3. The legacy of apartheid has instilled a significant focus on equality and human rights in South African society, with efforts to address historical injustices and promote social justice."
+                },
+                {
+                    "id": 4,
+                    "text": "4. Family and extended kin networks hold a central place in South African life, providing emotional and social support across generations and playing a vital role in individual identity."
+                },
+                {
+                    "id": 5,
+                    "text": "5. The South African Constitution is one of the most progressive globally, enshrining a commitment to non-racialism, equality, and the protection of a broad spectrum of human rights, including cultural rights."
+                },
+                {
+                    "id": 6,
+                    "text": "6. South Africans often exercise a strong sense of resilience and adaptability, shaped by a history of overcoming challenges through unity and determination."
+                },
+                {
+                    "id": 7,
+                    "text": "7. The country's rich natural landscapes and biodiversity foster a deep cultural appreciation for nature, influencing recreational activities and environmental consciousness."
+                },
+                {
+                    "id": 8,
+                    "text": "8. Language diversity is a key component of cultural expression in South Africa, with 11 official languages reflecting the country's multicultural makeup and promoting linguistic inclusivity."
+                },
+                {
+                    "id": 9,
+                    "text": "9. Celebrations and communal gatherings, such as traditional festivals and public holidays, are central to South African cultural life, fostering unity and a shared sense of heritage among different communities."
+                },
+                {
+                    "id": 10,
+                    "text": "10. Economic empowerment and addressing socio-economic disparities remain significant focus areas, as South Africans strive to create opportunities for development and prosperity for all citizens."
+                }
+            ]
+        }
+    ]
+}

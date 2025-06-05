@@ -1,0 +1,45 @@
+Text,Key,Reverse
+is talkative,E,F
+tends to find fault with others,A,R
+does a thorough job,C,F
+"is depressed, blue",N,F
+"is original, comes up with new ideas",O,F
+is reserved,E,R
+is helpful and unselfish with others,A,F
+can be somewhat careless,C,R
+"Is relaxed, handles stress well",N,F
+Is curious about many different things,O,F
+Is full of energy,E,F
+Starts quarrels with others,A,R
+Is a reliable worker,C,F
+can be tense,N,F
+"Is ingenious, a deep thinker",O,F
+Generates a lot of enthusiasm,E,R
+Has a forgiving nature,A,F
+Tends to be disorganized,C,F
+Worries a lot,N,F
+Has an active imagination,O,F
+Tends to be quiet,E,F
+Is generally trusting,A,F
+tends to be lazy,C,F
+"is emotionally stable, not easily upset",N,F
+Is inventive,O,F
+has an assertive personality,E,F
+can be cold and aloof,A,R
+perseveres until the task is finished,C,R
+can be moody,N,F
+"values artistic, aesthetic experiences",O,F
+"is sometimes shy, inhibited",E,R
+is considerate and kind to almost everyone,A,F
+Does things efficiently,C,F
+remains calm in tense situations,N,F
+Prefers work that is routine,O,F
+"is outgoing, sociable",E,F
+Is sometimes rude to others,A,F
+Makes plans and follows through with them,C,F
+gets nervous easily,N,F
+"likes to reflect, play with ideas",O,F
+Has few artistic interests,O,F
+Likes to cooperate with others,A,R
+Is easily distracted,C,F
+"Is sophisticated in art, music, or literature",O,F
